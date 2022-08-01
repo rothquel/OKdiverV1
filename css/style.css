@@ -1,0 +1,31 @@
+@import url("components/hero.css");
+@import url("components/cards.css");
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'DM Sans', sans-serif;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.brand-blue {
+  background-color: #536bf6;
+  border-color: #536bf6;
+}
+
+.brand-text {
+  color: #536bf6;
+}
+
+.tiny-font {
+  font-size: 10px;
+}
